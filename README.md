@@ -1,32 +1,28 @@
 # Hi, I'm Nox 👋
 
-**AI & Data Engineering Enthusiast**
+**AI • Data Engineering • Backend Development**
 
-I enjoy building intelligent systems that combine AI, automation, databases, and web scraping into practical applications.
-
-Currently focused on:
-
-* 🤖 AI Agents
-* 🐍 Python Automation
-* 📊 Data Engineering
-* 🧠 Machine Learning
-* ☁️ Backend Development
+I build intelligent applications using AI agents, automation, web scraping, and scalable backend systems. My focus is creating projects that solve real-world problems while exploring modern AI workflows.
 
 ---
 
-## 🚀 Current Project
+## 🚀 Featured Project
 
 ### 🏠 AI Real Estate Assistant
 
-Building an AI-powered real estate platform that can:
+An AI-powered real estate platform designed to help users discover properties through natural language.
 
-* Search thousands of property listings
-* Understand natural language queries
-* Store structured property data
-* Use AI agents to retrieve and analyze information
-* Support advanced filtering and recommendations
+### Features
 
-Tech stack:
+* 🔍 Search thousands of property listings
+* 🤖 AI-powered natural language search
+* 🗄️ Structured PostgreSQL database
+* ⚡ AI agent workflow with LangGraph
+* 🌐 Automated web scraping pipeline
+* 🎯 Smart filtering and personalized recommendations
+* 🔐 OAuth authentication
+
+### Tech Stack
 
 * Python
 * FastAPI
@@ -35,6 +31,7 @@ Tech stack:
 * Playwright
 * BeautifulSoup
 * AsyncIO
+* Authlib
 * LLM APIs
 
 ---
@@ -49,17 +46,16 @@ Tech stack:
 * HTML
 * CSS
 
-### Frameworks & Libraries
+### Backend & AI
 
 * FastAPI
-* Streamlit
 * LangGraph
+* Streamlit
 * Pandas
 * NumPy
 * Scikit-learn
-* PyTorch
 
-### Databases
+### Database
 
 * PostgreSQL
 * SQLite
@@ -69,15 +65,16 @@ Tech stack:
 * Git
 * GitHub
 * Docker
-  
+* Apache Airflow
+
 ---
 
-## 📌 Goals
+## 🎯 Goals
 
-* Build production-quality AI applications
-* Contribute to open-source projects
-* Land a backend / AI engineering internship
-* Continue improving my engineering skills through real-world projects
+* Build production-ready AI applications
+* Design scalable backend systems
+* Contribute to open-source software
+* Continuously improve as an AI and backend engineer
 
 ---
 
@@ -87,4 +84,4 @@ Tech stack:
 
 ---
 
-> *"Build things that solve real problems."*
+> **"Build things that solve real problems."**

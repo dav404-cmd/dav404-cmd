@@ -1,87 +1,39 @@
-# Hi, I'm Nox 👋
+# Nox
 
-**AI • Data Engineering • Backend Development**
+AI & Data Engineering | Backend Development
 
-I build intelligent applications using AI agents, automation, web scraping, and scalable backend systems. My focus is creating projects that solve real-world problems while exploring modern AI workflows.
+I build backend systems and AI-driven applications — combining agent workflows, automation, and scalable data infrastructure to solve real-world problems.
 
----
+## Featured Project
 
-## 🚀 Featured Project
+### AI Real Estate Assistant
+An AI-powered real estate platform that lets users search property listings using natural language.
 
-### 🏠 AI Real Estate Assistant
+- Natural language search powered by LLMs
+- Agent-based workflow orchestration with LangGraph
+- Automated web scraping pipeline for live listing data
+- Structured PostgreSQL data layer
+- Smart filtering and personalized recommendations
+- OAuth-based authentication
 
-An AI-powered real estate platform designed to help users discover properties through natural language.
+**Stack:** Python, FastAPI, PostgreSQL, LangGraph, Playwright, BeautifulSoup, AsyncIO, Authlib, LLM APIs
 
-### Features
+## Tech Stack
 
-* 🔍 Search thousands of property listings
-* 🤖 AI-powered natural language search
-* 🗄️ Structured PostgreSQL database
-* ⚡ AI agent workflow with LangGraph
-* 🌐 Automated web scraping pipeline
-* 🎯 Smart filtering and personalized recommendations
-* 🔐 OAuth authentication
+**Languages:** Python, SQL, JavaScript, HTML, CSS
 
-### Tech Stack
+**Backend & AI:** FastAPI, LangGraph, Streamlit, Pandas, NumPy, Scikit-learn
 
-* Python
-* FastAPI
-* PostgreSQL
-* LangGraph
-* Playwright
-* BeautifulSoup
-* AsyncIO
-* Authlib
-* LLM APIs
+**Databases:** PostgreSQL, SQLite
 
----
+**Tools:** Git, GitHub, Docker, Apache Airflow
 
-## 🛠 Tech Stack
+## Currently Focused On
 
-### Languages
+- Shipping production-ready AI applications
+- Designing scalable, maintainable backend systems
+- Contributing to open-source projects
 
-* Python
-* SQL
-* JavaScript
-* HTML
-* CSS
+## Connect
 
-### Backend & AI
-
-* FastAPI
-* LangGraph
-* Streamlit
-* Pandas
-* NumPy
-* Scikit-learn
-
-### Database
-
-* PostgreSQL
-* SQLite
-
-### Tools
-
-* Git
-* GitHub
-* Docker
-* Apache Airflow
-
----
-
-## 🎯 Goals
-
-* Build production-ready AI applications
-* Design scalable backend systems
-* Contribute to open-source software
-* Continuously improve as an AI and backend engineer
-
----
-
-## 📫 Connect
-
-* GitHub: https://github.com/dav404-cmd
-
----
-
-> **"Build things that solve real problems."**
+[GitHub](https://github.com/dav404-cmd)
